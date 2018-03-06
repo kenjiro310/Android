@@ -1,19 +1,4 @@
-#Sun Oct 29 01:13:48 EDT 2017
-renamed.5=classes6.dex
-renamed.4=classes5.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
+#Mon Feb 12 00:00:50 EST 2018
+base.0=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
 renamed.0=classes.dex
-base.5=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.4=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-base.3=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.2=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.1=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.0=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-file.5=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
-file.4=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16\\classes.dex
-file.3=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex
-file.2=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
-file.1=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
-file.0=B\:\\PROJECTS\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex

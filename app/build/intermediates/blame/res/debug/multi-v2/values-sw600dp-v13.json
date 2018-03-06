@@ -4,7 +4,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\98076ba955a085aefc060d889d222307\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\efe01d386344ceaeea3fcf4914321a8a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -19,7 +19,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v25_values-v25.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
@@ -35,7 +35,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -50,7 +50,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -65,7 +65,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -80,7 +80,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247,259,260,261,264,267,268,271,272",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -99,26 +99,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\98076ba955a085aefc060d889d222307\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,266",
-                        "endLines": "4,5",
-                        "endColumns": "12,96",
-                        "endOffsets": "261,358"
-                    },
-                    "to": {
-                        "startLines": "164,228",
-                        "startColumns": "4,4",
-                        "startOffsets": "12577,17127",
-                        "endLines": "166,228",
-                        "endColumns": "12,96",
-                        "endOffsets": "12783,17219"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\94d1adc0d3b7257dca92fb18cae8a3c9\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f69b5d7e9f5b67785eb0a27ef567271f\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -137,7 +118,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\638772451a5c8a69bb21ae71262a2ae2\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\efe01d386344ceaeea3fcf4914321a8a\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,266",
+                        "endLines": "4,5",
+                        "endColumns": "12,96",
+                        "endOffsets": "261,358"
+                    },
+                    "to": {
+                        "startLines": "164,228",
+                        "startColumns": "4,4",
+                        "startOffsets": "12577,17127",
+                        "endLines": "166,228",
+                        "endColumns": "12,96",
+                        "endOffsets": "12783,17219"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0663ab2939a7795967e62d0faa51fd39\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -161,7 +161,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -176,7 +176,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -191,7 +191,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -206,7 +206,17 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f69b5d7e9f5b67785eb0a27ef567271f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -223,16 +233,6 @@
                         "endColumns": "12",
                         "endOffsets": "289"
                     }
-                },
-                {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\94d1adc0d3b7257dca92fb18cae8a3c9\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
                 }
             ]
         },
@@ -240,7 +240,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -255,7 +255,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -270,7 +270,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -285,7 +285,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -300,7 +300,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-fr\\values-fr.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-fr\\values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -315,7 +315,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -330,7 +330,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -345,7 +345,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -360,7 +360,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -376,7 +376,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -391,7 +391,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v12_values-v12.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -407,7 +407,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -422,7 +422,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -437,7 +437,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -452,7 +452,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -467,7 +467,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\638772451a5c8a69bb21ae71262a2ae2\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0663ab2939a7795967e62d0faa51fd39\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -484,7 +484,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -499,7 +499,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -514,7 +514,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -529,7 +529,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-is\\values-is.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-is\\values-is.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -544,7 +544,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v26_values-v26.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\98076ba955a085aefc060d889d222307\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\efe01d386344ceaeea3fcf4914321a8a\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -563,7 +563,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -587,7 +587,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -602,7 +602,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -617,7 +617,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -632,7 +632,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -647,7 +647,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v22_values-v22.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
@@ -663,7 +663,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ko\\values-ko.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -678,7 +678,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -693,7 +693,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-my\\values-my.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-my\\values-my.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -708,7 +708,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ro\\values-ro.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ro\\values-ro.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -723,7 +723,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -738,7 +738,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sv\\values-sv.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -753,7 +753,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-kk\\values-kk.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-kk\\values-kk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -768,7 +768,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -783,7 +783,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -798,7 +798,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -808,7 +808,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\98076ba955a085aefc060d889d222307\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\efe01d386344ceaeea3fcf4914321a8a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -832,7 +832,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -847,7 +847,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -862,7 +862,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sq\\values-sq.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -877,7 +877,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -892,7 +892,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -907,7 +907,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v23_values-v23.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -923,7 +923,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -938,7 +938,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -953,7 +953,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -968,7 +968,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -983,7 +983,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-te\\values-te.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -998,7 +998,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ml\\values-ml.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1013,7 +1013,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-si_values-si.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-si\\values-si.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-si\\values-si.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1028,7 +1028,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1043,7 +1043,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1058,7 +1058,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-es\\values-es.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1073,7 +1073,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1088,7 +1088,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1103,7 +1103,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1118,7 +1118,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1133,7 +1133,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v17_values-v17.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1149,7 +1149,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v18_values-v18.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1164,7 +1164,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1179,7 +1179,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1194,7 +1194,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v13_values-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v13\\values-v13.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1209,7 +1209,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1224,7 +1224,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",
@@ -1240,7 +1240,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1255,7 +1255,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4_values-xlarge-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -1272,26 +1272,28 @@
                 {
                     "source": "B:\\PROJECTS\\Android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,-1,1",
-                        "startColumns": "4,-1,4",
-                        "startOffsets": "66,-1,17",
-                        "endColumns": "59,-1,47",
-                        "endOffsets": "121,-1,60"
+                        "startLines": "2,3,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "66,133,17",
+                        "endColumns": "65,52,47",
+                        "endOffsets": "127,181,60"
                     },
                     "to": {
                         "startLines": "734,766,767",
                         "startColumns": "4,4,4",
-                        "startOffsets": "61532,63830,63883",
-                        "endColumns": "59,52,47",
-                        "endOffsets": "61587,63878,63926"
+                        "startOffsets": "61532,63836,63889",
+                        "endColumns": "65,52,47",
+                        "endOffsets": "61593,63884,63932"
                     }
                 },
                 {
                     "source": "B:\\PROJECTS\\Android\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "41",
+                        "endOffsets": "54"
                     },
                     "to": {
                         "startLines": "657",
@@ -1302,42 +1304,86 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values\\values.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.1.0.aar\\4fae3f1373ddb6d0e6a8ee6a19203cde\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "685,744,792,848,923,999,1071",
+                        "endColumns": "58,47,55,74,75,71,65",
+                        "endOffsets": "739,787,843,918,994,1066,1132"
                     },
                     "to": {
-                        "startLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,655,656,661,662,663,664,665,666,667,686,687,688,689,690,691,692,693,696,697,698,699,701,706,707,711,722,724,725,728,729,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,776,778,779,780,781,782,799,806,807,811,815,819,824,830,837,841,845,850,854,858,862,866,870,874,878,882,886,890,894,898,903,907,910,914,918,922,926,930,934,937,941,945,949,953,957,958,959,960,963,966,969,972,976,977,978,979,980,983,985,987,989,994,995,999,1005,1009,1010,1012,1023,1024,1028,1034,1038,1039,1040,1044,1071,1075,1076,1080,1111,1276,1298,1463,1485,1512,1519,1524,1538,1560,1565,1570,1580,1589,1598,1602,1609,1617,1624,1625,1634,1637,1640,1644,1648,1652,1655,1656,1660,1664,1674,1679,1686,1692,1693,1696,1700,1705,1707,1709,1712,1715,1717,1721,1724,1731,1734,1737,1741,1743,1747,1749,1755,1757,1761,1769,1777,1789,1795,1804,1807,1818,1821,1826,1827,1843,1885,1928,1929,1939,1948,1949,1951,1955,1958,1961,1964,1967,1971,1974,1977,1980,1984,1987,1991,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2020,2021,2022,2023,2024,2028,2029,2030,2031,2033,2035,2036,2037,2038,2039,2040,2041,2042,2044,2045,2047,2048,2050,2052,2053,2055,2056,2057,2058,2059,2060,2062,2063,2064,2065,2066,2105,2107,2109,2111,2112,2113,2114,2115,2116,2117,2118,2119,2120,2121,2122,2123,2125,2126,2127,2128,2129,2130,2132,2136,2164,2165,2166,2167,2168,2169,2170,2171,2173,2175,2177,2179,2181,2182,2183,2184,2186,2188,2190,2191,2192,2193,2194,2195,2196,2197,2198,2199,2200,2201,2204,2205,2206,2207,2209,2211,2212,2214,2215,2217,2219,2221,2222,2223,2224,2225,2226,2227,2228,2229,2230,2231,2232,2234,2235,2236,2237,2239,2240,2241,2242,2243,2245,2247,2249,2251,2252,2253,2254,2255,2256,2257,2258,2259,2260,2261,2262,2263,2264",
+                        "startLines": "658,659,660,668,669,670,702",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57049,57108,57156,57823,57898,57974,59904",
+                        "endColumns": "58,47,55,74,75,71,65",
+                        "endOffsets": "57103,57151,57207,57893,57969,58041,59965"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,393,394,398,402,406,411,417,424,428,432,437,441,445,449,453,457,461,465,469,473,477,481,485,490,494,497,501,505,509,513,517,521,524,528,532,536,540,544,545,546,547,550,553,556,559,563,564,565,566,567,570,572,574,576,581,582,586,592,596,597,599,610,611,615,621,625,626,627,631,658,662,663,667,695,861,883,1049,1071,1098,1105,1110,1124,1146,1151,1156,1166,1175,1184,1188,1195,1203,1210,1211,1220,1223,1226,1230,1234,1238,1241,1242,1246,1250,1260,1265,1272,1278,1279,1282,1286,1291,1293,1295,1298,1301,1303,1307,1310,1317,1320,1323,1327,1329,1333,1335,1341,1343,1347,1355,1363,1375,1381,1390,1393,1404,1407,1412,1413,1418,1460,1503,1504,1514,1523,1524,1526,1530,1533,1536,1539,1542,1546,1549,1552,1555,1559,1562,1566,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1595,1596,1597,1598,1599,1603,1604,1605,1606,1608,1610,1611,1612,1613,1614,1615,1616,1617,1619,1620,1622,1623,1625,1627,1628,1630,1631,1632,1633,1634,1635,1637,1638,1639,1640,1641,1642,1644,1646,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1662,1663,1664,1665,1666,1667,1669,1673,1677,1678,1679,1680,1681,1682,1683,1684,1686,1688,1690,1692,1694,1695,1696,1697,1699,1701,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714,1717,1718,1719,1720,1722,1724,1725,1727,1728,1730,1732,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1745,1747,1748,1749,1750,1752,1753,1754,1755,1756,1758,1760,1762,1764,1765,1766,1767,1768,1769,1770,1771,1772,1773,1774,1775,1776,1777",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "152,207,252,4464,4505,4560,4618,4680,4748,4826,4907,4968,5043,5119,5196,5274,5359,5441,5517,5593,5670,5748,5854,5960,6039,6119,6176,7010,7084,7159,7224,7290,7345,7417,7490,7557,7625,7684,7743,7802,7861,7920,7974,8028,8081,8135,8189,8243,8518,8592,8671,8744,8818,8889,8961,9033,9106,9163,9221,9294,9368,9442,9517,9589,9662,9732,9803,9863,49055,49124,49193,49263,49337,49413,49477,49554,49630,49707,49771,49836,49905,49982,50057,50126,50194,50271,50337,50434,50499,50568,50667,50738,50797,50855,50912,50971,51042,51114,51186,51258,51330,51397,51465,51533,51592,51655,51719,51809,51900,51960,52026,52093,52159,52229,52293,52346,52459,52517,52580,52645,52710,52785,52858,52930,52979,53040,53101,53162,53224,53288,53352,53416,53481,53544,53604,53665,53731,53790,53850,53912,53983,54043,56834,56920,57212,57302,57389,57477,57559,57642,57732,59024,59076,59134,59179,59245,59309,59366,59423,59625,59682,59730,59779,59870,60083,60130,60326,60834,60914,60978,61168,61228,61592,61666,61744,61837,61907,61985,62039,62109,62194,62242,62288,62359,62437,62515,62587,62661,62735,62809,62889,62962,63031,63103,63180,63232,63305,63379,63448,63523,63597,63671,63760,65099,65223,65301,65391,65479,65575,66556,67057,67146,67393,67674,67918,68203,68596,69073,69295,69517,69785,70012,70242,70472,70702,70932,71159,71398,71624,71869,72099,72347,72566,72849,73057,73188,73415,73661,73886,74133,74354,74599,74719,74995,75296,75620,75911,76225,76362,76493,76598,76840,77007,77211,77419,77690,77802,77914,78019,78136,78350,78496,78636,78722,79070,79158,79388,79806,80039,80121,80219,80811,80911,81147,81571,81810,81904,81993,82230,84254,84496,84598,84835,87149,97094,98345,108387,109650,111142,111678,112008,113069,114334,114590,114826,115373,115867,116472,116670,117250,117814,118189,118307,118845,119002,119198,119471,119727,119897,120038,120102,120384,120670,121346,121610,121948,122301,122395,122581,122887,123149,123274,123401,123640,123851,123970,124163,124340,124795,124976,125098,125357,125470,125657,125759,126203,126327,126602,127110,127606,128483,128777,129347,129496,130228,130400,130736,130828,131794,134918,138185,138247,138825,139409,139495,139608,139837,139997,140149,140320,140487,140730,140900,141073,141244,141518,141717,141922,142252,142336,142432,142528,142626,142726,142828,142930,143032,143134,143236,143336,143432,143544,143673,143796,143927,144058,144156,144270,144364,144484,144688,144757,144873,145001,145065,145269,145338,145470,145540,145680,145814,145910,146022,146122,146238,146334,146446,146546,146686,146822,146986,147116,147274,147424,147565,147709,147844,147956,148106,148234,148362,148498,148630,148760,148890,149002,151641,151787,151931,152069,152135,152225,152301,152405,152495,152597,152705,152813,152913,152993,153085,153183,153293,153371,153477,153569,153673,153783,153905,154068,155539,155619,155719,155809,155919,156013,156119,156211,156311,156423,156537,156653,156769,156863,156977,157089,157191,157311,157433,157515,157619,157739,157865,157963,158057,158145,158257,158373,158495,158607,158782,158898,158984,159076,159188,159312,159379,159505,159573,159701,159845,159973,160042,160137,160252,160365,160464,160573,160684,160795,160896,161001,161101,161231,161322,161445,161539,161651,161737,161841,161937,162025,162143,162247,162351,162477,162565,162673,162773,162863,162973,163057,163159,163243,163297,163361,163467,163577,163661",
-                        "endLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,655,656,661,662,663,664,665,666,667,686,687,688,689,690,691,692,693,696,697,698,699,701,706,707,711,722,724,725,728,729,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,776,778,779,780,781,782,805,806,810,814,818,823,829,836,840,844,849,853,857,861,865,869,873,877,881,885,889,893,897,902,906,909,913,917,921,925,929,933,936,940,944,948,952,956,957,958,959,962,965,968,971,975,976,977,978,979,982,984,986,988,993,994,998,1004,1008,1009,1011,1022,1023,1027,1033,1037,1038,1039,1043,1070,1074,1075,1079,1107,1275,1297,1462,1484,1511,1518,1523,1537,1559,1564,1569,1579,1588,1597,1601,1608,1616,1623,1624,1633,1636,1639,1643,1647,1651,1654,1655,1659,1663,1673,1678,1685,1691,1692,1695,1699,1704,1706,1708,1711,1714,1716,1720,1723,1730,1733,1736,1740,1742,1746,1748,1754,1756,1760,1768,1776,1788,1794,1803,1806,1817,1820,1825,1826,1831,1884,1927,1928,1938,1947,1948,1950,1954,1957,1960,1963,1966,1970,1973,1976,1979,1983,1986,1990,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2019,2020,2021,2022,2023,2027,2028,2029,2030,2032,2034,2035,2036,2037,2038,2039,2040,2041,2043,2044,2046,2047,2049,2051,2052,2054,2055,2056,2057,2058,2059,2061,2062,2063,2064,2065,2066,2106,2108,2110,2111,2112,2113,2114,2115,2116,2117,2118,2119,2120,2121,2122,2124,2125,2126,2127,2128,2129,2131,2135,2139,2164,2165,2166,2167,2168,2169,2170,2172,2174,2176,2178,2180,2181,2182,2183,2185,2187,2189,2190,2191,2192,2193,2194,2195,2196,2197,2198,2199,2200,2203,2204,2205,2206,2208,2210,2211,2213,2214,2216,2218,2220,2221,2222,2223,2224,2225,2226,2227,2228,2229,2230,2231,2233,2234,2235,2236,2238,2239,2240,2241,2242,2244,2246,2248,2250,2251,2252,2253,2254,2255,2256,2257,2258,2259,2260,2261,2262,2263,2264",
+                        "startOffsets": "55,110,155,204,245,300,358,420,488,566,647,708,783,859,936,1014,1099,1181,1257,1333,1410,1488,1594,1700,1779,1859,1916,1974,2048,2123,2188,2254,2309,2381,2454,2521,2589,2648,2707,2766,2825,2884,2938,2992,3045,3099,3153,3207,3261,3335,3414,3487,3561,3632,3704,3776,3849,3906,3964,4037,4111,4185,4260,4332,4405,4475,4546,4606,26813,26882,26951,27021,27095,27171,27235,27312,27388,27465,27529,27594,27663,27740,27815,27884,27952,28029,28095,28192,28257,28326,28425,28496,28555,28613,28670,28729,28800,28872,28944,29016,29088,29155,29223,29291,29350,29413,29477,29567,29658,29718,29784,29851,29917,29987,30051,30104,30217,30275,30338,30403,30468,30543,30616,30688,30737,30798,30859,30920,30982,31046,31110,31174,31239,31302,31362,31423,31489,31548,31608,31670,31741,31801,31869,31955,32042,32132,32219,32307,32389,32472,32562,32653,32705,32763,32808,32874,32938,32995,33052,33106,33163,33211,33260,33311,33345,33392,33441,33487,33519,33583,33645,33705,33762,33836,33914,34007,34077,34155,34209,34279,34364,34412,34458,34529,34607,34685,34757,34831,34905,34979,35059,35132,35201,35273,35350,35402,35475,35549,35618,35693,35767,35841,35930,36000,36053,36131,36221,36309,36405,36495,36996,37085,37332,37613,37857,38142,38535,39012,39234,39456,39724,39951,40181,40411,40641,40871,41098,41337,41563,41808,42038,42286,42505,42788,42996,43127,43354,43600,43825,44072,44293,44538,44658,44934,45235,45559,45850,46164,46301,46432,46537,46779,46946,47150,47358,47629,47741,47853,47958,48075,48289,48435,48575,48661,49009,49097,49327,49745,49978,50060,50158,50775,50875,51111,51535,51774,51868,51957,52194,54246,54488,54590,54827,57011,67548,68799,79433,80696,82188,82724,83054,84115,85380,85636,85872,86419,86913,87518,87716,88296,88860,89235,89353,89891,90048,90244,90517,90773,90943,91084,91148,91430,91716,92392,92656,92994,93347,93441,93627,93933,94195,94320,94447,94686,94897,95016,95209,95386,95841,96022,96144,96403,96516,96703,96805,97249,97373,97648,98156,98652,99529,99823,100393,100542,101274,101446,101782,101874,102152,105338,108667,108729,109359,109973,110059,110172,110401,110561,110713,110884,111051,111294,111464,111637,111808,112082,112281,112486,112816,112900,112996,113092,113190,113290,113392,113494,113596,113698,113800,113900,113996,114108,114237,114360,114491,114622,114720,114834,114928,115048,115252,115321,115437,115565,115629,115833,115902,116034,116104,116244,116378,116474,116586,116686,116802,116898,117010,117110,117250,117386,117550,117680,117838,117988,118129,118273,118408,118520,118670,118798,118926,119062,119194,119324,119454,119566,119706,119852,119996,120134,120200,120290,120366,120470,120560,120662,120770,120878,120978,121058,121150,121248,121358,121436,121542,121634,121738,121848,121970,122133,122290,122370,122470,122560,122670,122764,122870,122962,123062,123174,123288,123404,123520,123614,123728,123840,123942,124062,124184,124266,124370,124490,124616,124714,124808,124896,125008,125124,125246,125358,125533,125649,125735,125827,125939,126063,126130,126256,126324,126452,126596,126724,126793,126888,127003,127116,127215,127324,127435,127546,127647,127752,127852,127982,128073,128196,128290,128402,128488,128592,128688,128776,128894,128998,129102,129228,129316,129424,129524,129614,129724,129808,129910,129994,130048,130112,130218,130328,130412",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,392,393,397,401,405,410,416,423,427,431,436,440,444,448,452,456,460,464,468,472,476,480,484,489,493,496,500,504,508,512,516,520,523,527,531,535,539,543,544,545,546,549,552,555,558,562,563,564,565,566,569,571,573,575,580,581,585,591,595,596,598,609,610,614,620,624,625,626,630,657,661,662,666,694,860,882,1048,1070,1097,1104,1109,1123,1145,1150,1155,1165,1174,1183,1187,1194,1202,1209,1210,1219,1222,1225,1229,1233,1237,1240,1241,1245,1249,1259,1264,1271,1277,1278,1281,1285,1290,1292,1294,1297,1300,1302,1306,1309,1316,1319,1322,1326,1328,1332,1334,1340,1342,1346,1354,1362,1374,1380,1389,1392,1403,1406,1411,1412,1417,1459,1502,1503,1513,1522,1523,1525,1529,1532,1535,1538,1541,1545,1548,1551,1554,1558,1561,1565,1569,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1594,1595,1596,1597,1598,1602,1603,1604,1605,1607,1609,1610,1611,1612,1613,1614,1615,1616,1618,1619,1621,1622,1624,1626,1627,1629,1630,1631,1632,1633,1634,1636,1637,1638,1639,1640,1641,1643,1645,1647,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1661,1662,1663,1664,1665,1666,1668,1672,1676,1677,1678,1679,1680,1681,1682,1683,1685,1687,1689,1691,1693,1694,1695,1696,1698,1700,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1716,1717,1718,1719,1721,1723,1724,1726,1727,1729,1731,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1746,1747,1748,1749,1751,1752,1753,1754,1755,1757,1759,1761,1763,1764,1765,1766,1767,1768,1769,1770,1771,1772,1773,1774,1775,1776,1777",
                         "endColumns": "54,44,48,40,54,57,61,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,54,71,72,66,67,58,58,58,58,58,53,53,52,53,53,53,53,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,59,60,68,68,69,73,75,63,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,70,58,57,56,58,70,71,71,71,71,66,67,67,58,62,63,89,90,59,65,66,65,69,63,52,112,57,62,64,64,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,65,58,59,61,70,59,67,85,86,89,86,87,81,82,89,90,51,57,44,65,63,56,56,53,56,47,48,50,33,46,48,45,31,63,61,59,56,73,77,92,69,77,53,69,84,47,45,70,77,77,71,73,73,73,79,72,68,71,76,51,72,73,68,74,73,73,88,69,52,77,89,87,95,89,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,12,12,111,111,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,101,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,91,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,130,130,97,113,93,119,12,68,115,127,63,12,68,131,69,12,12,95,111,99,115,95,111,99,12,135,12,129,12,12,140,12,134,111,149,127,127,12,131,129,129,111,139,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,93,105,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,99,12,90,122,93,12,85,103,95,87,12,12,12,12,87,107,99,89,109,83,101,83,53,63,105,109,83,119",
-                        "endOffsets": "202,247,296,4500,4555,4613,4675,4743,4821,4902,4963,5038,5114,5191,5269,5354,5436,5512,5588,5665,5743,5849,5955,6034,6114,6171,6229,7079,7154,7219,7285,7340,7412,7485,7552,7620,7679,7738,7797,7856,7915,7969,8023,8076,8130,8184,8238,8292,8587,8666,8739,8813,8884,8956,9028,9101,9158,9216,9289,9363,9437,9512,9584,9657,9727,9798,9858,9919,49119,49188,49258,49332,49408,49472,49549,49625,49702,49766,49831,49900,49977,50052,50121,50189,50266,50332,50429,50494,50563,50662,50733,50792,50850,50907,50966,51037,51109,51181,51253,51325,51392,51460,51528,51587,51650,51714,51804,51895,51955,52021,52088,52154,52224,52288,52341,52454,52512,52575,52640,52705,52780,52853,52925,52974,53035,53096,53157,53219,53283,53347,53411,53476,53539,53599,53660,53726,53785,53845,53907,53978,54038,54106,56915,57002,57297,57384,57472,57554,57637,57727,57818,59071,59129,59174,59240,59304,59361,59418,59472,59677,59725,59774,59825,59899,60125,60174,60367,60861,60973,61035,61223,61280,61661,61739,61832,61902,61980,62034,62104,62189,62237,62283,62354,62432,62510,62582,62656,62730,62804,62884,62957,63026,63098,63175,63227,63300,63374,63443,63518,63592,63666,63755,63825,65147,65296,65386,65474,65570,65660,67052,67141,67388,67669,67913,68198,68591,69068,69290,69512,69780,70007,70237,70467,70697,70927,71154,71393,71619,71864,72094,72342,72561,72844,73052,73183,73410,73656,73881,74128,74349,74594,74714,74990,75291,75615,75906,76220,76357,76488,76593,76835,77002,77206,77414,77685,77797,77909,78014,78131,78345,78491,78631,78717,79065,79153,79383,79801,80034,80116,80214,80806,80906,81142,81566,81805,81899,81988,82225,84249,84491,84593,84830,86986,97089,98340,108382,109645,111137,111673,112003,113064,114329,114585,114821,115368,115862,116467,116665,117245,117809,118184,118302,118840,118997,119193,119466,119722,119892,120033,120097,120379,120665,121341,121605,121943,122296,122390,122576,122882,123144,123269,123396,123635,123846,123965,124158,124335,124790,124971,125093,125352,125465,125652,125754,126198,126322,126597,127105,127601,128478,128772,129342,129491,130223,130395,130731,130823,131101,134913,138180,138242,138820,139404,139490,139603,139832,139992,140144,140315,140482,140725,140895,141068,141239,141513,141712,141917,142247,142331,142427,142523,142621,142721,142823,142925,143027,143129,143231,143331,143427,143539,143668,143791,143922,144053,144151,144265,144359,144479,144683,144752,144868,144996,145060,145264,145333,145465,145535,145675,145809,145905,146017,146117,146233,146329,146441,146541,146681,146817,146981,147111,147269,147419,147560,147704,147839,147951,148101,148229,148357,148493,148625,148755,148885,148997,149137,151782,151926,152064,152130,152220,152296,152400,152490,152592,152700,152808,152908,152988,153080,153178,153288,153366,153472,153564,153668,153778,153900,154063,154220,155614,155714,155804,155914,156008,156114,156206,156306,156418,156532,156648,156764,156858,156972,157084,157186,157306,157428,157510,157614,157734,157860,157958,158052,158140,158252,158368,158490,158602,158777,158893,158979,159071,159183,159307,159374,159500,159568,159696,159840,159968,160037,160132,160247,160360,160459,160568,160679,160790,160891,160996,161096,161226,161317,161440,161534,161646,161732,161836,161932,162020,162138,162242,162346,162472,162560,162668,162768,162858,162968,163052,163154,163238,163292,163356,163462,163572,163656,163776"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\transition-26.1.0.aar\\e116ba148445948362b7949d91339c91\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "endOffsets": "105,150,199,240,295,353,415,483,561,642,703,778,854,931,1009,1094,1176,1252,1328,1405,1483,1589,1695,1774,1854,1911,1969,2043,2118,2183,2249,2304,2376,2449,2516,2584,2643,2702,2761,2820,2879,2933,2987,3040,3094,3148,3202,3256,3330,3409,3482,3556,3627,3699,3771,3844,3901,3959,4032,4106,4180,4255,4327,4400,4470,4541,4601,4662,26877,26946,27016,27090,27166,27230,27307,27383,27460,27524,27589,27658,27735,27810,27879,27947,28024,28090,28187,28252,28321,28420,28491,28550,28608,28665,28724,28795,28867,28939,29011,29083,29150,29218,29286,29345,29408,29472,29562,29653,29713,29779,29846,29912,29982,30046,30099,30212,30270,30333,30398,30463,30538,30611,30683,30732,30793,30854,30915,30977,31041,31105,31169,31234,31297,31357,31418,31484,31543,31603,31665,31736,31796,31864,31950,32037,32127,32214,32302,32384,32467,32557,32648,32700,32758,32803,32869,32933,32990,33047,33101,33158,33206,33255,33306,33340,33387,33436,33482,33514,33578,33640,33700,33757,33831,33909,34002,34072,34150,34204,34274,34359,34407,34453,34524,34602,34680,34752,34826,34900,34974,35054,35127,35196,35268,35345,35397,35470,35544,35613,35688,35762,35836,35925,35995,36048,36126,36216,36304,36400,36490,36991,37080,37327,37608,37852,38137,38530,39007,39229,39451,39719,39946,40176,40406,40636,40866,41093,41332,41558,41803,42033,42281,42500,42783,42991,43122,43349,43595,43820,44067,44288,44533,44653,44929,45230,45554,45845,46159,46296,46427,46532,46774,46941,47145,47353,47624,47736,47848,47953,48070,48284,48430,48570,48656,49004,49092,49322,49740,49973,50055,50153,50770,50870,51106,51530,51769,51863,51952,52189,54241,54483,54585,54822,57006,67543,68794,79428,80691,82183,82719,83049,84110,85375,85631,85867,86414,86908,87513,87711,88291,88855,89230,89348,89886,90043,90239,90512,90768,90938,91079,91143,91425,91711,92387,92651,92989,93342,93436,93622,93928,94190,94315,94442,94681,94892,95011,95204,95381,95836,96017,96139,96398,96511,96698,96800,97244,97368,97643,98151,98647,99524,99818,100388,100537,101269,101441,101777,101869,102147,105333,108662,108724,109354,109968,110054,110167,110396,110556,110708,110879,111046,111289,111459,111632,111803,112077,112276,112481,112811,112895,112991,113087,113185,113285,113387,113489,113591,113693,113795,113895,113991,114103,114232,114355,114486,114617,114715,114829,114923,115043,115247,115316,115432,115560,115624,115828,115897,116029,116099,116239,116373,116469,116581,116681,116797,116893,117005,117105,117245,117381,117545,117675,117833,117983,118124,118268,118403,118515,118665,118793,118921,119057,119189,119319,119449,119561,119701,119847,119991,120129,120195,120285,120361,120465,120555,120657,120765,120873,120973,121053,121145,121243,121353,121431,121537,121629,121733,121843,121965,122128,122285,122365,122465,122555,122665,122759,122865,122957,123057,123169,123283,123399,123515,123609,123723,123835,123937,124057,124179,124261,124365,124485,124611,124709,124803,124891,125003,125119,125241,125353,125528,125644,125730,125822,125934,126058,126125,126251,126319,126447,126591,126719,126788,126883,126998,127111,127210,127319,127430,127541,127642,127747,127847,127977,128068,128191,128285,128397,128483,128587,128683,128771,128889,128993,129097,129223,129311,129419,129519,129609,129719,129803,129905,129989,130043,130107,130213,130323,130407,130527"
                     },
                     "to": {
-                        "startLines": "700,705,708,709,710,717,718,719,720,721",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "59830,60040,60179,60226,60281,60568,60622,60674,60723,60784",
-                        "endColumns": "39,42,46,54,44,53,51,48,60,49",
-                        "endOffsets": "59865,60078,60221,60276,60321,60617,60669,60718,60779,60829"
+                        "startLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,655,656,661,662,663,664,665,666,667,686,687,688,689,690,691,692,693,696,697,698,699,701,706,707,711,722,724,725,728,729,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,776,778,779,780,781,782,799,806,807,811,815,819,824,830,837,841,845,850,854,858,862,866,870,874,878,882,886,890,894,898,903,907,910,914,918,922,926,930,934,937,941,945,949,953,957,958,959,960,963,966,969,972,976,977,978,979,980,983,985,987,989,994,995,999,1005,1009,1010,1012,1023,1024,1028,1034,1038,1039,1040,1044,1071,1075,1076,1080,1111,1277,1299,1465,1487,1514,1521,1526,1540,1562,1567,1572,1582,1591,1600,1604,1611,1619,1626,1627,1636,1639,1642,1646,1650,1654,1657,1658,1662,1666,1676,1681,1688,1694,1695,1698,1702,1707,1709,1711,1714,1717,1719,1723,1726,1733,1736,1739,1743,1745,1749,1751,1757,1759,1763,1771,1779,1791,1797,1806,1809,1820,1823,1828,1829,1845,1887,1930,1931,1941,1950,1951,1953,1957,1960,1963,1966,1969,1973,1976,1979,1982,1986,1989,1993,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2022,2023,2024,2025,2026,2030,2031,2032,2033,2035,2037,2038,2039,2040,2041,2042,2043,2044,2046,2047,2049,2050,2052,2054,2055,2057,2058,2059,2060,2061,2062,2064,2065,2066,2067,2068,2107,2109,2111,2113,2114,2115,2116,2117,2118,2119,2120,2121,2122,2123,2124,2125,2127,2128,2129,2130,2131,2132,2134,2138,2166,2167,2168,2169,2170,2171,2172,2173,2175,2177,2179,2181,2183,2184,2185,2186,2188,2190,2192,2193,2194,2195,2196,2197,2198,2199,2200,2201,2202,2203,2206,2207,2208,2209,2211,2213,2214,2216,2217,2219,2221,2223,2224,2225,2226,2227,2228,2229,2230,2231,2232,2233,2234,2236,2237,2238,2239,2241,2242,2243,2244,2245,2247,2249,2251,2253,2254,2255,2256,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "152,207,252,4464,4505,4560,4618,4680,4748,4826,4907,4968,5043,5119,5196,5274,5359,5441,5517,5593,5670,5748,5854,5960,6039,6119,6176,7010,7084,7159,7224,7290,7345,7417,7490,7557,7625,7684,7743,7802,7861,7920,7974,8028,8081,8135,8189,8243,8518,8592,8671,8744,8818,8889,8961,9033,9106,9163,9221,9294,9368,9442,9517,9589,9662,9732,9803,9863,49055,49124,49193,49263,49337,49413,49477,49554,49630,49707,49771,49836,49905,49982,50057,50126,50194,50271,50337,50434,50499,50568,50667,50738,50797,50855,50912,50971,51042,51114,51186,51258,51330,51397,51465,51533,51592,51655,51719,51809,51900,51960,52026,52093,52159,52229,52293,52346,52459,52517,52580,52645,52710,52785,52858,52930,52979,53040,53101,53162,53224,53288,53352,53416,53481,53544,53604,53665,53731,53790,53850,53912,53983,54043,56834,56920,57212,57302,57389,57477,57559,57642,57732,59024,59076,59134,59179,59245,59309,59366,59423,59625,59682,59730,59779,59870,60083,60130,60326,60834,60914,60978,61168,61228,61598,61672,61750,61843,61913,61991,62045,62115,62200,62248,62294,62365,62443,62521,62593,62667,62741,62815,62895,62968,63037,63109,63186,63238,63311,63385,63454,63529,63603,63677,63766,65105,65229,65307,65397,65485,65581,66597,67098,67187,67434,67715,67959,68244,68637,69114,69336,69558,69826,70053,70283,70513,70743,70973,71200,71439,71665,71910,72140,72388,72607,72890,73098,73229,73456,73702,73927,74174,74395,74640,74760,75036,75337,75661,75952,76266,76403,76534,76639,76881,77048,77252,77460,77731,77843,77955,78060,78177,78391,78537,78677,78763,79111,79199,79429,79847,80080,80162,80260,80877,80977,81213,81637,81876,81970,82059,82296,84348,84590,84692,84929,87271,97808,99059,109693,110956,112448,112984,113314,114375,115640,115896,116132,116679,117173,117778,117976,118556,119120,119495,119613,120151,120308,120504,120777,121033,121203,121344,121408,121690,121976,122652,122916,123254,123607,123701,123887,124193,124455,124580,124707,124946,125157,125276,125469,125646,126101,126282,126404,126663,126776,126963,127065,127509,127633,127908,128416,128912,129789,130083,130653,130802,131534,131706,132042,132134,133100,136286,139615,139677,140307,140921,141007,141120,141349,141509,141661,141832,141999,142242,142412,142585,142756,143030,143229,143434,143764,143848,143944,144040,144138,144238,144340,144442,144544,144646,144748,144848,144944,145056,145185,145308,145439,145570,145668,145782,145876,145996,146200,146269,146385,146513,146577,146781,146850,146982,147052,147192,147326,147422,147534,147634,147750,147846,147958,148058,148198,148334,148498,148628,148786,148936,149077,149221,149356,149468,149618,149746,149874,150010,150142,150272,150402,150514,153153,153299,153443,153581,153647,153737,153813,153917,154007,154109,154217,154325,154425,154505,154597,154695,154805,154883,154989,155081,155185,155295,155417,155580,157051,157131,157231,157321,157431,157525,157631,157723,157823,157935,158049,158165,158281,158375,158489,158601,158703,158823,158945,159027,159131,159251,159377,159475,159569,159657,159769,159885,160007,160119,160294,160410,160496,160588,160700,160824,160891,161017,161085,161213,161357,161485,161554,161649,161764,161877,161976,162085,162196,162307,162408,162513,162613,162743,162834,162957,163051,163163,163249,163353,163449,163537,163655,163759,163863,163989,164077,164185,164285,164375,164485,164569,164671,164755,164809,164873,164979,165089,165173",
+                        "endLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,655,656,661,662,663,664,665,666,667,686,687,688,689,690,691,692,693,696,697,698,699,701,706,707,711,722,724,725,728,729,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,776,778,779,780,781,782,805,806,810,814,818,823,829,836,840,844,849,853,857,861,865,869,873,877,881,885,889,893,897,902,906,909,913,917,921,925,929,933,936,940,944,948,952,956,957,958,959,962,965,968,971,975,976,977,978,979,982,984,986,988,993,994,998,1004,1008,1009,1011,1022,1023,1027,1033,1037,1038,1039,1043,1070,1074,1075,1079,1107,1276,1298,1464,1486,1513,1520,1525,1539,1561,1566,1571,1581,1590,1599,1603,1610,1618,1625,1626,1635,1638,1641,1645,1649,1653,1656,1657,1661,1665,1675,1680,1687,1693,1694,1697,1701,1706,1708,1710,1713,1716,1718,1722,1725,1732,1735,1738,1742,1744,1748,1750,1756,1758,1762,1770,1778,1790,1796,1805,1808,1819,1822,1827,1828,1833,1886,1929,1930,1940,1949,1950,1952,1956,1959,1962,1965,1968,1972,1975,1978,1981,1985,1988,1992,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2021,2022,2023,2024,2025,2029,2030,2031,2032,2034,2036,2037,2038,2039,2040,2041,2042,2043,2045,2046,2048,2049,2051,2053,2054,2056,2057,2058,2059,2060,2061,2063,2064,2065,2066,2067,2068,2108,2110,2112,2113,2114,2115,2116,2117,2118,2119,2120,2121,2122,2123,2124,2126,2127,2128,2129,2130,2131,2133,2137,2141,2166,2167,2168,2169,2170,2171,2172,2174,2176,2178,2180,2182,2183,2184,2185,2187,2189,2191,2192,2193,2194,2195,2196,2197,2198,2199,2200,2201,2202,2205,2206,2207,2208,2210,2212,2213,2215,2216,2218,2220,2222,2223,2224,2225,2226,2227,2228,2229,2230,2231,2232,2233,2235,2236,2237,2238,2240,2241,2242,2243,2244,2246,2248,2250,2252,2253,2254,2255,2256,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266",
+                        "endColumns": "54,44,48,40,54,57,61,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,54,71,72,66,67,58,58,58,58,58,53,53,52,53,53,53,53,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,59,60,68,68,69,73,75,63,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,70,58,57,56,58,70,71,71,71,71,66,67,67,58,62,63,89,90,59,65,66,65,69,63,52,112,57,62,64,64,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,65,58,59,61,70,59,67,85,86,89,86,87,81,82,89,90,51,57,44,65,63,56,56,53,56,47,48,50,33,46,48,45,31,63,61,59,56,73,77,92,69,77,53,69,84,47,45,70,77,77,71,73,73,73,79,72,68,71,76,51,72,73,68,74,73,73,88,69,52,77,89,87,95,89,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,12,12,111,111,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,101,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,91,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,130,130,97,113,93,119,12,68,115,127,63,12,68,131,69,12,12,95,111,99,115,95,111,99,12,135,12,129,12,12,140,12,134,111,149,127,127,12,131,129,129,111,139,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,93,105,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,99,12,90,122,93,12,85,103,95,87,12,12,12,12,87,107,99,89,109,83,101,83,53,63,105,109,83,119",
+                        "endOffsets": "202,247,296,4500,4555,4613,4675,4743,4821,4902,4963,5038,5114,5191,5269,5354,5436,5512,5588,5665,5743,5849,5955,6034,6114,6171,6229,7079,7154,7219,7285,7340,7412,7485,7552,7620,7679,7738,7797,7856,7915,7969,8023,8076,8130,8184,8238,8292,8587,8666,8739,8813,8884,8956,9028,9101,9158,9216,9289,9363,9437,9512,9584,9657,9727,9798,9858,9919,49119,49188,49258,49332,49408,49472,49549,49625,49702,49766,49831,49900,49977,50052,50121,50189,50266,50332,50429,50494,50563,50662,50733,50792,50850,50907,50966,51037,51109,51181,51253,51325,51392,51460,51528,51587,51650,51714,51804,51895,51955,52021,52088,52154,52224,52288,52341,52454,52512,52575,52640,52705,52780,52853,52925,52974,53035,53096,53157,53219,53283,53347,53411,53476,53539,53599,53660,53726,53785,53845,53907,53978,54038,54106,56915,57002,57297,57384,57472,57554,57637,57727,57818,59071,59129,59174,59240,59304,59361,59418,59472,59677,59725,59774,59825,59899,60125,60174,60367,60861,60973,61035,61223,61280,61667,61745,61838,61908,61986,62040,62110,62195,62243,62289,62360,62438,62516,62588,62662,62736,62810,62890,62963,63032,63104,63181,63233,63306,63380,63449,63524,63598,63672,63761,63831,65153,65302,65392,65480,65576,65666,67093,67182,67429,67710,67954,68239,68632,69109,69331,69553,69821,70048,70278,70508,70738,70968,71195,71434,71660,71905,72135,72383,72602,72885,73093,73224,73451,73697,73922,74169,74390,74635,74755,75031,75332,75656,75947,76261,76398,76529,76634,76876,77043,77247,77455,77726,77838,77950,78055,78172,78386,78532,78672,78758,79106,79194,79424,79842,80075,80157,80255,80872,80972,81208,81632,81871,81965,82054,82291,84343,84585,84687,84924,87108,97803,99054,109688,110951,112443,112979,113309,114370,115635,115891,116127,116674,117168,117773,117971,118551,119115,119490,119608,120146,120303,120499,120772,121028,121198,121339,121403,121685,121971,122647,122911,123249,123602,123696,123882,124188,124450,124575,124702,124941,125152,125271,125464,125641,126096,126277,126399,126658,126771,126958,127060,127504,127628,127903,128411,128907,129784,130078,130648,130797,131529,131701,132037,132129,132407,136281,139610,139672,140302,140916,141002,141115,141344,141504,141656,141827,141994,142237,142407,142580,142751,143025,143224,143429,143759,143843,143939,144035,144133,144233,144335,144437,144539,144641,144743,144843,144939,145051,145180,145303,145434,145565,145663,145777,145871,145991,146195,146264,146380,146508,146572,146776,146845,146977,147047,147187,147321,147417,147529,147629,147745,147841,147953,148053,148193,148329,148493,148623,148781,148931,149072,149216,149351,149463,149613,149741,149869,150005,150137,150267,150397,150509,150649,153294,153438,153576,153642,153732,153808,153912,154002,154104,154212,154320,154420,154500,154592,154690,154800,154878,154984,155076,155180,155290,155412,155575,155732,157126,157226,157316,157426,157520,157626,157718,157818,157930,158044,158160,158276,158370,158484,158596,158698,158818,158940,159022,159126,159246,159372,159470,159564,159652,159764,159880,160002,160114,160289,160405,160491,160583,160695,160819,160886,161012,161080,161208,161352,161480,161549,161644,161759,161872,161971,162080,162191,162302,162403,162508,162608,162738,162829,162952,163046,163158,163244,163348,163444,163532,163650,163754,163858,163984,164072,164180,164280,164370,164480,164564,164666,164750,164804,164868,164974,165084,165168,165288"
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\0a0e5f930265e3c7060f551fa574ac27\\res\\values\\values.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\efe01d386344ceaeea3fcf4914321a8a\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "2,3,4,5,6,7,8,9,10,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,241,244,245,255,258,259,262,265,268,272,277,280,285,288,293,297,301,303,307,314,318,321,330,336,339,348,352",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,174,255,319,385,455,525,595,665,11320,11374,11453,11526,11591,11654,11725,11796,11858,11927,11993,12060,12127,12183,12234,12287,12339,12393,12456,12515,12577,12636,12696,12759,12834,12906,12977,13033,13104,13161,13218,13284,13348,13419,13476,13529,13592,13644,13702,13749,13794,13842,13908,13970,14033,14090,14147,14292,14413,14500,14591,14892,15058,15213,15315,15602,15760,15857,16448,16649,16741,16920,17088,17263,17516,17807,17937,18295,18437,18807,18967,19121,19221,19462,19897,20104,20263,20828,21189,21318,21985,22165",
+                        "endLines": "2,3,4,5,6,7,8,9,10,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,240,243,244,254,257,258,261,264,267,271,276,279,284,287,292,296,300,302,306,313,317,320,329,335,338,347,351,360",
+                        "endColumns": "73,80,63,65,69,69,69,69,66,53,78,72,64,62,70,70,61,68,65,66,66,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,46,44,47,65,61,62,56,56,144,120,86,90,300,165,154,101,12,12,96,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "169,250,314,380,450,520,590,660,727,11369,11448,11521,11586,11649,11720,11791,11853,11922,11988,12055,12122,12178,12229,12282,12334,12388,12451,12510,12572,12631,12691,12754,12829,12901,12972,13028,13099,13156,13213,13279,13343,13414,13471,13524,13587,13639,13697,13744,13789,13837,13903,13965,14028,14085,14142,14287,14408,14495,14586,14887,15053,15208,15310,15597,15755,15852,16443,16644,16736,16915,17083,17258,17511,17802,17932,18290,18432,18802,18962,19116,19216,19457,19892,20099,20258,20823,21184,21313,21980,22160,22869"
+                    },
+                    "to": {
+                        "startLines": "121,122,123,124,125,126,127,128,129,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,714,715,723,726,727,730,731,732,768,769,770,771,772,773,774,775,783,1108,1834,1835,2085,2088,2089,2092,2095,2098,2102,2142,2145,2150,2153,2158,2162,2269,2271,2275,2282,2286,2289,2298,2304,2307,2316,2320",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6378,6452,6533,6597,6663,6733,6803,6873,6943,54452,54506,54585,54658,54723,54786,54857,54928,54990,55059,55125,55192,55259,55315,55366,55419,55471,55525,55588,55647,55709,55768,55828,55891,55966,56038,56109,56165,56236,56293,56350,56416,56480,56551,56608,56661,56724,56776,60441,60488,60866,61040,61106,61285,61348,61405,63937,64082,64203,64290,64381,64682,64848,65003,65671,87113,132412,132509,151794,151995,152087,152266,152434,152609,152862,155737,155867,156225,156367,156737,156897,165432,165532,165773,166208,166415,166574,167139,167500,167629,168296,168476",
+                        "endLines": "121,122,123,124,125,126,127,128,129,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,714,715,723,726,727,730,731,732,768,769,770,771,772,773,774,775,786,1110,1834,1844,2087,2088,2091,2094,2097,2101,2106,2144,2149,2152,2157,2161,2165,2270,2274,2281,2285,2288,2297,2303,2306,2315,2319,2328",
+                        "endColumns": "73,80,63,65,69,69,69,69,66,53,78,72,64,62,70,70,61,68,65,66,66,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,46,44,47,65,61,62,56,56,144,120,86,90,300,165,154,101,12,12,96,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "6447,6528,6592,6658,6728,6798,6868,6938,7005,54501,54580,54653,54718,54781,54852,54923,54985,55054,55120,55187,55254,55310,55361,55414,55466,55520,55583,55642,55704,55763,55823,55886,55961,56033,56104,56160,56231,56288,56345,56411,56475,56546,56603,56656,56719,56771,56829,60483,60528,60909,61101,61163,61343,61400,61457,64077,64198,64285,64376,64677,64843,64998,65100,65953,87266,132504,133095,151990,152082,152261,152429,152604,152857,153148,155862,156220,156362,156732,156892,157046,165527,165768,166203,166410,166569,167134,167495,167624,168291,168471,169180"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0663ab2939a7795967e62d0faa51fd39\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,348,414,536,597,663",
+                        "endColumns": "88,65,121,60,65,66",
+                        "endOffsets": "139,409,531,592,658,725"
+                    },
+                    "to": {
+                        "startLines": "153,2074,2076,2077,2082,2084",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "8429,150972,151148,151270,151532,151727",
+                        "endColumns": "88,65,121,60,65,66",
+                        "endOffsets": "8513,151033,151265,151326,151593,151789"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\6aa07e153e6e80a05ba054ca3ea09005\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,177,310,378,507,633,700,823,948,1015,1080,1145,1285,1351,1417,1484,1694,1763,1829,1954,2080,2147,2273,2400,2525,2652,2717,2843,2966,3031,3239,3306,3445,3510,3575,3637,3699,3761,3820,3880,3941,4002,4061",
+                        "endLines": "2,3,6,7,10,13,14,17,20,21,22,23,27,28,29,30,35,36,37,40,43,44,47,50,53,56,57,60,63,64,69,70,74,75,76,77,78,79,80,81,82,83,84,90",
+                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "102,172,305,373,502,628,695,818,943,1010,1075,1140,1280,1346,1412,1479,1689,1758,1824,1949,2075,2142,2268,2395,2520,2647,2712,2838,2961,3026,3234,3301,3440,3505,3570,3632,3694,3756,3815,3875,3936,3997,4056,4265"
                     },
                     "to": {
                         "startLines": "2,6,7,10,11,14,17,18,21,24,25,26,27,31,32,33,34,39,40,41,44,47,48,51,54,57,60,61,64,67,68,73,74,78,79,80,81,82,83,84,85,86,87,88",
@@ -1349,73 +1395,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.1.0.aar\\aa6492ad3b789079845a042108961078\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "658,659,660,668,669,670,702",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "57049,57108,57156,57823,57898,57974,59904",
-                        "endColumns": "58,47,55,74,75,71,65",
-                        "endOffsets": "57103,57151,57207,57893,57969,58041,59965"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\98076ba955a085aefc060d889d222307\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "121,122,123,124,125,126,127,128,129,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,714,715,723,726,727,730,731,732,768,769,770,771,772,773,774,775,783,1108,1832,1833,2083,2086,2087,2090,2093,2096,2100,2140,2143,2148,2151,2156,2160,2267,2269,2273,2280,2284,2287,2296,2302,2305,2314,2318",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "6378,6452,6533,6597,6663,6733,6803,6873,6943,54452,54506,54585,54658,54723,54786,54857,54928,54990,55059,55125,55192,55259,55315,55366,55419,55471,55525,55588,55647,55709,55768,55828,55891,55966,56038,56109,56165,56236,56293,56350,56416,56480,56551,56608,56661,56724,56776,60441,60488,60866,61040,61106,61285,61348,61405,63931,64076,64197,64284,64375,64676,64842,64997,65665,86991,131106,131203,150282,150483,150575,150754,150922,151097,151350,154225,154355,154713,154855,155225,155385,163920,164020,164261,164696,164903,165062,165627,165988,166117,166784,166964",
-                        "endLines": "121,122,123,124,125,126,127,128,129,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,714,715,723,726,727,730,731,732,768,769,770,771,772,773,774,775,786,1110,1832,1842,2085,2086,2089,2092,2095,2099,2104,2142,2147,2150,2155,2159,2163,2268,2272,2279,2283,2286,2295,2301,2304,2313,2317,2326",
-                        "endColumns": "73,80,63,65,69,69,69,69,66,53,78,72,64,62,70,70,61,68,65,66,66,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,46,44,47,65,61,62,56,56,144,120,86,90,300,165,154,101,12,12,96,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "6447,6528,6592,6658,6728,6798,6868,6938,7005,54501,54580,54653,54718,54781,54852,54923,54985,55054,55120,55187,55254,55310,55361,55414,55466,55520,55583,55642,55704,55763,55823,55886,55961,56033,56104,56160,56231,56288,56345,56411,56475,56546,56603,56656,56719,56771,56829,60483,60528,60909,61101,61163,61343,61400,61457,64071,64192,64279,64370,64671,64837,64992,65094,65947,87144,131198,131789,150478,150570,150749,150917,151092,151345,151636,154350,154708,154850,155220,155380,155534,164015,164256,164691,164898,165057,165622,165983,166112,166779,166959,167668"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\638772451a5c8a69bb21ae71262a2ae2\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "153,2072,2074,2075,2080,2082",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "8429,149460,149636,149758,150020,150215",
-                        "endColumns": "88,65,121,60,65,66",
-                        "endOffsets": "8513,149521,149753,149814,150081,150277"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\94d1adc0d3b7257dca92fb18cae8a3c9\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "151,152,612,613,614,615,616,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,694,695,703,704,712,713,716,733,777,2067,2068,2073,2076,2081,2265,2266",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8297,8366,54111,54181,54249,54321,54391,58046,58107,58168,58230,58294,58356,58417,58485,58585,58645,58711,58784,58853,58910,58962,59477,59549,59970,60005,60372,60406,60533,61462,65152,149142,149259,149526,149819,150086,163781,163853",
-                        "endLines": "151,152,612,613,614,615,616,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,694,695,703,704,712,713,716,733,777,2067,2071,2073,2079,2081,2265,2266",
-                        "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
-                        "endOffsets": "8361,8424,54176,54244,54316,54386,54447,58102,58163,58225,58289,58351,58412,58480,58580,58640,58706,58779,58848,58905,58957,59019,59544,59620,60000,60035,60401,60436,60563,61527,65218,149254,149455,149631,150015,150210,163848,163915"
-                    }
-                },
-                {
                     "source": "B:\\PROJECTS\\Android\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "-1,-1,-1",
-                        "startColumns": "-1,-1,-1",
-                        "startOffsets": "-1,-1,-1"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
                     },
                     "to": {
                         "startLines": "118,119,120",
@@ -1426,19 +1412,58 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f69b5d7e9f5b67785eb0a27ef567271f\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,1153,1223,1291,1363,1433,1494,1555,1616,1678,1742,1804,1865,1933,2033,2093,2159,2232,2301,2358,2410,2472,2544,2620,2655,2690,2724,2759,2794,2864,2935,3052,3253,3363,3564,3693,3765",
+                        "endLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,52,53,57,58,59,60",
+                        "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,1218,1286,1358,1428,1489,1550,1611,1673,1737,1799,1860,1928,2028,2088,2154,2227,2296,2353,2405,2467,2539,2615,2650,2685,2719,2754,2789,2859,2930,3047,3248,3358,3559,3688,3760,3827"
+                    },
+                    "to": {
+                        "startLines": "151,152,612,613,614,615,616,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,694,695,703,704,712,713,716,733,777,2069,2070,2075,2078,2083,2267,2268",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8297,8366,54111,54181,54249,54321,54391,58046,58107,58168,58230,58294,58356,58417,58485,58585,58645,58711,58784,58853,58910,58962,59477,59549,59970,60005,60372,60406,60533,61462,65158,150654,150771,151038,151331,151598,165293,165365",
+                        "endLines": "151,152,612,613,614,615,616,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,694,695,703,704,712,713,716,733,777,2069,2073,2075,2081,2083,2267,2268",
+                        "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "8361,8424,54176,54244,54316,54386,54447,58102,58163,58225,58289,58351,58412,58480,58580,58640,58706,58779,58848,58905,58957,59019,59544,59620,60000,60035,60401,60436,60563,61527,65224,150766,150967,151143,151527,151722,165360,165427"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\transition-26.1.0.aar\\5504a4c79c4fa28c0ec2aba4976facce\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,138,185,240,285,339,391,440,501",
+                        "endColumns": "39,42,46,54,44,53,51,48,60,49",
+                        "endOffsets": "90,133,180,235,280,334,386,435,496,546"
+                    },
+                    "to": {
+                        "startLines": "700,705,708,709,710,717,718,719,720,721",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59830,60040,60179,60226,60281,60568,60622,60674,60723,60784",
+                        "endColumns": "39,42,46,54,44,53,51,48,60,49",
+                        "endOffsets": "59865,60078,60221,60276,60321,60617,60669,60718,60779,60829"
+                    }
+                },
+                {
                     "source": "B:\\PROJECTS\\Android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1"
+                        "startLines": "3,15,10,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,540,384,634",
+                        "endLines": "8,15,13,17",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "376,626,532,710"
                     },
                     "to": {
                         "startLines": "787,793,794,798",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "65952,66236,66326,66476",
+                        "startOffsets": "65958,66277,66367,66517",
                         "endLines": "792,793,797,798",
                         "endColumns": "12,89,12,79",
-                        "endOffsets": "66231,66321,66471,66551"
+                        "endOffsets": "66272,66362,66512,66592"
                     }
                 }
             ]
@@ -1447,7 +1472,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1462,7 +1487,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1477,7 +1502,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1492,7 +1517,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1507,7 +1532,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1522,7 +1547,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1537,7 +1562,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-lo_values-lo.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1552,7 +1577,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-mr\\values-mr.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1567,7 +1592,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1582,7 +1607,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-th\\values-th.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1597,7 +1622,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1612,7 +1637,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1627,7 +1652,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-fa\\values-fa.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-fa\\values-fa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1642,7 +1667,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1658,7 +1683,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1673,7 +1698,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-iw\\values-iw.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1688,7 +1713,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1703,7 +1728,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1718,7 +1743,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-el\\values-el.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1733,7 +1758,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1748,7 +1773,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1763,7 +1788,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1778,7 +1803,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1793,7 +1818,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\98076ba955a085aefc060d889d222307\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\efe01d386344ceaeea3fcf4914321a8a\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1812,7 +1837,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1827,7 +1852,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-port_values-port.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1842,7 +1867,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13_values-h720dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1857,7 +1882,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-ja\\values-ja.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1872,7 +1897,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1887,7 +1912,7 @@
             "outputFile": "B:\\PROJECTS\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values-bn_values-bn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\258b65b7f1326a16fa1ae27948d7aa4f\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\xtreme 7pro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8cec9a9a2c148e449577664cd31cbd7b\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

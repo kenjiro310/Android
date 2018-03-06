@@ -3744,7 +3744,7 @@ public final class R {
     public static final int ic_launcher_round=0x7f0c0001;
   }
   public static final class string {
-    public static final int Hello_world=0x7f0d0000;
+    public static final int HappyBirthdayJohn=0x7f0d0000;
     public static final int abc_action_bar_home_description=0x7f0d0001;
     public static final int abc_action_bar_home_description_format=0x7f0d0002;
     public static final int abc_action_bar_home_subtitle_description_format=0x7f0d0003;

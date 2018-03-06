@@ -1032,7 +1032,7 @@ int layout tooltip 0x7f0a003e
 int menu menu_main 0x7f0b0000
 int mipmap ic_launcher 0x7f0c0000
 int mipmap ic_launcher_round 0x7f0c0001
-int string Hello_world 0x7f0d0000
+int string HappyBirthdayJohn 0x7f0d0000
 int string abc_action_bar_home_description 0x7f0d0001
 int string abc_action_bar_home_description_format 0x7f0d0002
 int string abc_action_bar_home_subtitle_description_format 0x7f0d0003
